@@ -21,10 +21,3 @@ I completed the **TripleTen Data Science program**, where I developed skills in 
 
 ---
 
-### 📊 Some of my GitHub Stats  
-
-```md
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milanmather&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Milanmather&theme=tokyonight)
--->
