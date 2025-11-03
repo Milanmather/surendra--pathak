@@ -20,4 +20,6 @@ I completed the **TripleTen Data Science program**, where I developed skills in 
 - 🎯 **My goal for 2026:** land my first full-time Data Scientist role and continue building real-world ML projects.
 
 ---
+### 📄 Resume  
+You can view my full resume here: [My Resume](https://docs.google.com/document/d/1ECpBtvktM4Q7aDptA7U5okOVK6O9PGDQrd7bB18udwE/edit?tab=t.0#heading=h.5x0d5h95i329)
 
